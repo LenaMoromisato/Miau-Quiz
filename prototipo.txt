@@ -1,0 +1,22 @@
+Tema: gatos
+
+Titulo: Miau Quiz
+
+- Estou preparado para adotar? Responda a este quiz e descubra!
+
+- Descubra se está preparado para adotar um gatinho!
+
+- Será que posso adotar um gato? Responda a este quiz e descubra!
+
+Perguntas:
+
+1. O gato ronrona para mostrar que está:
+a) Feliz
+b) Bravo
+c) Estressado
+
+2. Qual a forma mais segura para se transportar um gato:
+a) No colo
+b) Na coleira
+c) Na caixa de transporte
+
